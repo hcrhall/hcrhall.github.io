@@ -1,0 +1,7 @@
+# HashiCorp Sentinel
+
+## Language
+- [Sentinel Language Overview]https://developer.hashicorp.com/sentinel/docs/language
+
+## Specification
+- [Sentinel Language Specification](https://developer.hashicorp.com/sentinel/docs/language/spec)
